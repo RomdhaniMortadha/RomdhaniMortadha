@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Romdhani Mortadha</h1>
 <h3 align="center">Software developer | Full-stack JavaScript | Node/React developer <br/>
   <br/>
