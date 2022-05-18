@@ -3,6 +3,10 @@
 <h3 align="center">Software developer | Full-stack JavaScript | Node/React developer <br/>
   <br/>
   As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</h3>
+  <!--
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnicolasbncruz%2Fnicolasbncruz&psig=AOvVaw3Mo1IHv_MZMI-uOcBdyghp&ust=1652963870889000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCL-LaI6fcCFQAAAAAdAAAAABAD">
+-->
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romdhanimortadha&label=Profile%20views&color=0e75b6&style=flat" alt="romdhanimortadha" /> </p>
